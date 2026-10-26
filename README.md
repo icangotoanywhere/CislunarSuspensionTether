@@ -50,4 +50,8 @@ This repository stores the code for my doctoral thesis on the Cislunar Suspensio
 - Wang W W, Wu Z G, Liu J F. Dynamic analysis of cislunar suspension tether swings. *Acta Astronautica*, 2024, 216: 350-369.（第 3 章）
 - Wu Z G, Wang W W, Liu L, Liu J F. Dynamic simulation of cargo transport along cislunar suspension tether by single node coupling model. *Acta Astronautica*, 2025, 226(1): 262-274.（第 4 章）
 - 发明专利（已受理）：基于引力虹吸效应的自动运行月球天梯建模方法及系统，受理号 202510168560.6（第 5 章）
+
+## 视频
+
 - 第 5 章虹吸天梯仿真动画：https://www.bilibili.com/video/BV1hA2BYEEaH/
+- 月球天梯视频：https://www.bilibili.com/video/BV1mJaZ64EtE/
